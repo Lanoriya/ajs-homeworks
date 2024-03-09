@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .idea
 Thumbs.db*
 .DS_Store*
@@ -85,3 +86,6 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+=======
+node_modules/
+>>>>>>> 886b2742748d224c7af0a113cca627ef2645133a
